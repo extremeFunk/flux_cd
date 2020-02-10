@@ -15,7 +15,7 @@ spec:
     ref: master
   values:
     image:
-      repository: us:gcr:io/linen-cubist-267010/echo
+      repository: us.gcr.io/linen-cubist-267010/echo
       tag: v1.2
     replicaCount: 2
     hpa:
