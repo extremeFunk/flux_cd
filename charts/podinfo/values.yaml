@@ -10,7 +10,7 @@ configMap:
   persist: true
 
 secret:
-  #dbUrl: bW9uZ29kYjovL3VzcjpwYXNzQG1vbmdvLW1vbmdvZGI6MjcwMTcvZWNobwo=
+  dbUrl: bW9uZ29kYjovL3VzcjpwYXNzQG1vbmdvLW1vbmdvZGI6MjcwMTcvZWNobwo=
 
 image:
   repository: us.gcr.io/linen-cubist-267010/echo
